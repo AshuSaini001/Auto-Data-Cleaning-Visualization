@@ -19,7 +19,7 @@ Tech Stack: R, Shiny, ggplot2, dplyr.
 
 How to Run:
 # Clone repo
-git clone https://github.com/YourUsername/Auto-Data-Cleaning-Visualization.git
+git clone https://github.com/AshuSaini001/Auto-Data-Cleaning-Visualization.git
 cd Auto-Data-Cleaning-Visualization
 
 # Run in R
@@ -45,3 +45,6 @@ Deploy with rsconnect::deployApp("path/to/app").
 RStudio Connect (enterprise): For professional hosting.
 
 Docker Container: Package the app for reproducible deployment
+
+URL for Website:
+                https://ashusaini001.shinyapps.io/shiny-python-viz/
